@@ -14,8 +14,8 @@ This method insure that we have a path from the node that represents the entry t
 
 #### how to run the project
 
-After you downloaded the code, complie and run the Maze class with 2 arguments - height and width, both integers.
-For example the command  <em>java Maze 25 25 </em> , will generate a 25 X 25 Maze.
+After you downloaded the code, compile and run the Maze class with 2 arguments - height and width, both integers.
+For example, the command  <em>java Maze 25 25 </em> , will generate a 25 X 25 Maze.
 
 
 
