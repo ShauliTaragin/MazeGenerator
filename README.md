@@ -15,7 +15,7 @@ This method insure that we have a path from the node that represents the entry t
 #### how to run the project
 
 After you downloaded the code, complie and run the Maze class with 2 arguments - height and width, both integers.
-For example the command  <em>java Maze 25 25<em> , will generate a 25 X 25 Maze.
+For example the command  <em>java Maze 25 25 </em> , will generate a 25 X 25 Maze.
 
 
 
@@ -24,4 +24,9 @@ For example the command  <em>java Maze 25 25<em> , will generate a 25 X 25 Maze.
 ![alt text](https://github.com/noamv2/Directed-Graphs/blob/master/pics/cp.JPG)
 
 #### Footage
+
+<img src="https://github.com/noamv2/MazeGenerator/blob/main/pics/1010.jpg" width="300" height="300">
+<img src="https://github.com/noamv2/MazeGenerator/blob/main/pics/1025.JPG" width="500" height="200">
+<img src="https://github.com/noamv2/MazeGenerator/blob/main/pics/5050.jpg" width="400" height="400">
+
 
