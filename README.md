@@ -2,7 +2,9 @@
 <p>
 Maze generator' is a simple program that (as suggested by its name) generates a random square maze in a pre-defined size.
 </p>
+
   ***Authors : Shauli Taragin & Noam Vanunu***  
+  
 <hr>
 <h4>Behind the scences</h4>
 <p>
