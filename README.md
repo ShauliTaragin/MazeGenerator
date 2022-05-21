@@ -12,6 +12,8 @@ union all of them until all the nodes are in the same set.<br>
 This method insure that we have a path from the node that represents the entry to the one representing the exit
 </p>
 
+***Authors : Shauli Taragin & Noam Vanunu***  
+
 #### how to run the project
 
 After you downloaded the code, compile and run the Maze class with 2 arguments - height and width, both integers.
