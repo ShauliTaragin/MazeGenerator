@@ -1,6 +1,7 @@
 <h3>Project review </h3>
 <p>
 Maze generator' is a simple program that (as suggested by its name) generates a random square maze in a pre-defined size.
+  ***Authors : Shauli Taragin & Noam Vanunu***  
 </p>
 <hr>
 <h4>Behind the scences</h4>
@@ -12,7 +13,7 @@ union all of them until all the nodes are in the same set.<br>
 This method insure that we have a path from the node that represents the entry to the one representing the exit
 </p>
 
-***Authors : Shauli Taragin & Noam Vanunu***  
+
 
 #### how to run the project
 
