@@ -1,8 +1,8 @@
 <h3>Project review </h3>
 <p>
 Maze generator' is a simple program that (as suggested by its name) generates a random square maze in a pre-defined size.
-  ***Authors : Shauli Taragin & Noam Vanunu***  
 </p>
+  ***Authors : Shauli Taragin & Noam Vanunu***  
 <hr>
 <h4>Behind the scences</h4>
 <p>
